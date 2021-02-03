@@ -3,7 +3,7 @@ who: james jensen
 web: jajaperson.me
 loc: Western Australia
 age: 17
-pro: he/him
+pro: [he,him]
 --- # programming stuff
 languages:
   - typescript # and js when i have to
