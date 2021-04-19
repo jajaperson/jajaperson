@@ -3,7 +3,7 @@ who: james jensen
 web: jajaperson.me
 loc: Western Australia
 age: 17
-pro: [he,him]
+pro: [he,they]
 --- # programming stuff
 languages:
   - typescript # and js when i have to
@@ -27,6 +27,7 @@ fav_oss:
 hobbies:
   - maths
   - category theory (more maths)
+  - philosophy (spinoza is bae)
   - programming (obviously)
   - linguistics
   - esperanto
@@ -36,7 +37,7 @@ likes:
   - typora
   - philip pullman (hdm :o)
   - exurb1a
-  - existential nihilism
+  - eternalism
   - a subset of the human population
 is_really_cool: yes 
 --- # socials
