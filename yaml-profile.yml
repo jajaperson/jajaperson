@@ -1,43 +1,33 @@
 --- # profile
 who: james jensen
-web: jajaperson.me
 loc: Western Australia
-age: 17
-pro: [he,they]
+age: 18
+pro: * # any pronouns
 --- # programming stuff
 languages:
   - typescript # and js when i have to
-  - haskell
   - rust
   - dart # back before flutter was a thing lol
   - python # sometimes
   - msg: |
-      proficient in typescript, getting better at rust
-      and haskell.
-fav_oss:
-  - nextjs
-  - nestjs
-  - react
-  - deno
-  - manim
-  - fp-ts
-  - msg: |
-      reformed angular heathen.
+      comfortable with typescript and rust,
+      currently improving my haskell.
 --- # other stuff
 hobbies:
   - maths
-  - category theory (more maths)
-  - philosophy (spinoza is bae)
   - programming (obviously)
   - linguistics
-  - esperanto
+  - physics
+  - metaphysics
   - msg: |
       basically, a nerd.
 likes:
-  - typora
-  - philip pullman (hdm :o)
-  - exurb1a
-  - eternalism
+  - obsidian.md
+  - spacevim
+  - alacritty
+  - murakami haruki
+  - grant sanderson
+  - þīn módor
   - a subset of the human population
 is_really_cool: yes 
 --- # socials
