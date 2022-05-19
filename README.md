@@ -1,1 +1,42 @@
-<img src="./carbon.svg" />
+```yaml
+
+--- # profile
+who: james jensen
+loc: Western Australia
+age: 18
+pro: * # any pronouns
+--- # programming stuff
+languages:
+  - typescript # and js when i have to
+  - rust
+  - dart # back before flutter was a thing lol
+  - python # sometimes
+  - msg: |
+      comfortable with typescript and rust,
+      currently improving my haskell.
+--- # other stuff
+hobbies:
+  - maths
+  - programming (obviously)
+  - linguistics
+  - physics
+  - metaphysics
+  - msg: |
+      basically, a nerd.
+likes:
+  - obsidian.md
+  - spacevim
+  - alacritty
+  - murakami haruki
+  - grant sanderson
+  - þīn módor
+  - a subset of the human population
+is_really_cool: yes 
+--- # socials
+twtr: "@jajaperson"
+igrm: "@jajaperson"
+rddt: "u/jajaperson"
+kybs: "@jajaperson"
+---
+
+```
