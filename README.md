@@ -20,17 +20,10 @@ hobbies:
   - programming (obviously)
   - linguistics
   - physics
-  - metaphysics
+  - philosophy
+  - piano
   - msg: |
       basically, a nerd.
-likes:
-  - obsidian.md
-  - spacevim
-  - alacritty
-  - murakami haruki
-  - grant sanderson
-  - þīn módor
-  - a subset of the human population
 is_really_cool: yes 
 --- # socials
 twtr: "@jajaperson"
@@ -38,5 +31,4 @@ igrm: "@jajaperson"
 rddt: "u/jajaperson"
 kybs: "@jajaperson"
 ---
-
 ```
