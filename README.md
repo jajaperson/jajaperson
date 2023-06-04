@@ -3,7 +3,7 @@
 --- # profile
 who: james jensen
 loc: Western Australia
-age: 18
+age: 19
 pro: * # any pronouns
 --- # programming stuff
 languages:
