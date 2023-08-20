@@ -26,9 +26,9 @@ hobbies:
       basically, a nerd.
 is_really_cool: yes 
 --- # socials
-twtr: "@jajaperson"
+mast: "@jajaperson"
 igrm: "@jajaperson"
-rddt: "u/jajaperson"
 kybs: "@jajaperson"
 ---
 ```
+<a rel="me" href="https://mastodon.social/@jajaperson">Mastodon</a>
